@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archerng.github.io</id>
     <title>ArcherNG&apos;Clog</title>
-    <updated>2020-09-24T02:28:55.116Z</updated>
+    <updated>2020-09-24T02:30:54.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://archerng.github.io"/>
     <link rel="self" href="https://archerng.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://archerng.github.io/images/avatar.png</logo>
     <icon>https://archerng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ArcherNG&apos;Clog</rights>
+    <entry>
+        <title type="html"><![CDATA[Testing]]></title>
+        <id>https://archerng.github.io/post/testing/</id>
+        <link href="https://archerng.github.io/post/testing/">
+        </link>
+        <updated>2020-09-24T02:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="this-is-testing">This is testing</h1>
+]]></content>
+    </entry>
 </feed>
